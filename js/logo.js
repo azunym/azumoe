@@ -1,4 +1,4 @@
-var random_logos = ["banazu1_fight.gif", "azukyuu.gif"];
+var random_logos = ["banazu1_fight.gif", "azukyuu.gif", "azup.gif"];
 
 function getRandomImage(imgAr, path) {
     path = path || 'img/'; // default path here
